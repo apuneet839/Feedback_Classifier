@@ -25,8 +25,8 @@ This project aims to combine Machine Learning with a Graphical User Interface. I
 
 
 [![Feedback Classifier Screen Shot][product-screenshot]]
-[![Feedback Classifier Positive Prediction Screenshot] [product-positive-screenshot]]
-[![Feedback Classifier Negative Prediction Screenshot] [product-negative-screenshot]]
+[![Feedback Classifier Positive Prediction Screenshot][product-positive-screenshot]]
+[![Feedback Classifier Negative Prediction Screenshot][product-negative-screenshot]]
 
 
 
