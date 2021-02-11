@@ -24,9 +24,9 @@
 This project aims to combine Machine Learning with a Graphical User Interface. It takes a review/feedback as an input from the user through a Graphical User Interface and passes the review/feedback into our already trained Machine Learning model and then our model will predict if the feedback is Positive or Negative and even give us the probabilities of the feedback being Positive and Negative. We then present all of the information in a nice presentable manner to the user.
 
 
-![Feedback Classifier Screen Shot](product-screenshot)
-![Feedback Classifier Positive Prediction Screenshot](product-positive-screenshot)
-![Feedback Classifier Negative Prediction Screenshot](product-negative-screenshot)
+![Feedback Classifier Screen Shot][product-screenshot]
+![Feedback Classifier Positive Prediction Screenshot][product-positive-screenshot]
+![Feedback Classifier Negative Prediction Screenshot][product-negative-screenshot]
 
 
 
