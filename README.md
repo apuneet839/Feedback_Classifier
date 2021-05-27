@@ -63,7 +63,7 @@ This project was built entirely on Python.
 ## Contact
 
 
-LinkedIn - [Puneet Arora](linkedin-url)
+LinkedIn - [Puneet Arora](linkedin-url)</br>
 Twitter - [@puneet_arora_14](https://twitter.com/puneet_arora_14)
 
 
