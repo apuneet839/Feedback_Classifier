@@ -53,20 +53,10 @@ This project was built entirely on Python.
 
 ### Libraries Used
 
-* [scikit-learn](https://scikit-learn.org/stable/)
-* [random](https://docs.python.org/3/library/random.html)
-* [json](https://docs.python.org/3/library/json.html)
-* [Tkinter](https://docs.python.org/3/library/tkinter.html)
-
-### Machine Learning Models Used:
-
-I trained and evaluated the following Machine Learning models for this project:
-
-* [SVM](https://scikit-learn.org/stable/modules/svm.html)
-* [DecisionTrees](https://scikit-learn.org/stable/modules/tree.html)
-* [NaiveBayes](https://scikit-learn.org/stable/modules/naive_bayes.html)
-* [LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
-
+* [argparse](https://docs.python.org/3/library/argparse.html)
+* [open-cv](https://opencv.org/)
+* [numpy](https://numpy.org/doc/stable/)
+* [pandas](https://pandas.pydata.org/docs/)
 
 
 <!-- CONTACT -->
