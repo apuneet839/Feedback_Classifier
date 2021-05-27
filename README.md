@@ -25,7 +25,7 @@ This project aims to combine Machine Learning with a Graphical User Interface. I
 
 
 ![Sentiment Classifier Screen Shot][product-screenshot]
-![Sentiment Classifier Positive Prediction Screenshot]
+![Sentiment Classifier Positive Prediction Screenshot][product-positive-screenshot]
 ![Sentiment Classifier Negative Prediction Screenshot][product-negative-screenshot]
 
 
