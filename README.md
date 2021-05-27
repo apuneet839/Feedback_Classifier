@@ -1,4 +1,4 @@
-# Feedback Classifier
+# Sentiment Classifier
 ## An awesome blend between Machine Learning and Graphical User Interface
 
 <!-- TABLE OF CONTENTS -->
@@ -21,12 +21,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project aims to combine Machine Learning with a Graphical User Interface. It takes a review/feedback as an input from the user through a Graphical User Interface and passes the review/feedback into our already trained Machine Learning model and then our model will predict if the feedback is Positive or Negative and even give us the probabilities of the feedback being Positive and Negative. We then present all of the information in a nice presentable manner to the user.
+This project aims to combine Machine Learning with a Graphical User Interface. It takes a review/feedback as an input from the user through a Graphical User Interface and passes the review/feedback into our already trained Machine Learning model and then our model will predict if the snetiment of the feedback is Positive or Negative and even give us the probabilities of the sentiment being Positive and Negative. We then present all of the information in a nice presentable manner to the user.
 
 
-![Feedback Classifier Screen Shot][product-screenshot]
-![Feedback Classifier Positive Prediction Screenshot][product-positive-screenshot]
-![Feedback Classifier Negative Prediction Screenshot][product-negative-screenshot]
+![Sentiment Classifier Screen Shot][product-screenshot]
+![Sentiment Classifier Positive Prediction Screenshot][product-positive-screenshot]
+![Sentiment Classifier Negative Prediction Screenshot][product-negative-screenshot]
 
 
 
@@ -82,6 +82,6 @@ Project Link: [https://github.com/apuneet839/Feedback_Classifier](https://github
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-url]: https://www.linkedin.com/in/puneet-arora-1401
-[product-screenshot]: images/Feedback_classifier_default.png
-[product-positive-screenshot]: images/Feedback_classifier_positive.png
-[product-negative-screenshot]: images/Feedback_classifier_negative.png
+[product-screenshot]: images/Sentiment_classifier_default.png
+[product-positive-screenshot]: images/Sentiment_classifier_positive.png
+[product-negative-screenshot]: images/Sentiment_classifier_negative.png
