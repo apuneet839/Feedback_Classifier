@@ -24,9 +24,9 @@
 This project aims to combine Machine Learning with a Graphical User Interface. It takes a review/feedback as an input from the user through a Graphical User Interface and passes the review/feedback into our already trained Machine Learning model and then our model will predict if the snetiment of the feedback is Positive or Negative and even give us the probabilities of the sentiment being Positive and Negative. We then present all of the information in a nice presentable manner to the user.
 
 
-![Sentiment Classifier Screen Shot][product-screenshot width=100]
-![Sentiment Classifier Positive Prediction Screenshot][product-positive-screenshot]
-![Sentiment Classifier Negative Prediction Screenshot][product-negative-screenshot]
+![Sentiment Classifier Screen Shot][product-screenshot]{:height="700px" width="400px"}
+![Sentiment Classifier Positive Prediction Screenshot][product-positive-screenshot]{:height="700px" width="400px"}
+![Sentiment Classifier Negative Prediction Screenshot][product-negative-screenshot]{:height="700px" width="400px"}
 
 
 
